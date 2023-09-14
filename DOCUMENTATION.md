@@ -8,5 +8,10 @@ Create - https://enthusiastic-newt-bikini.cyclic.app/api/  make an API request w
       "value":"***"  #optional
       }
       The response returns a similar object plus the id which you`ll need to perform other operations
+       { 
+       "_id":"**"
+      "name":"***",
+      "value":"***"  #optional
+      }
 
 Get, Put/Update, Delete - https://enthusiastic-newt-bikini.cyclic.app/api/user_id make an API call to perform the listed operations depending on the request operation making the call
