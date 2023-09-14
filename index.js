@@ -36,6 +36,7 @@ app.post('/api', async (req, res) => {
     try {
         const person = new Person({
             name: req.body.name,
+            value: req.body.value,
         })
 
         const savedPerson = await person.save()
