@@ -1,6 +1,6 @@
 CRUD APIs:
 
-Create - https://enthusiastic-newt-bikini.cyclic.app/api/  make an API request with the create operation
+Create - https://www.example.com/api/  make an API request with the create operation
 
       The reqired Object has two type string values with the name value requred and value as optional
       ie. { 
@@ -14,4 +14,4 @@ Create - https://enthusiastic-newt-bikini.cyclic.app/api/  make an API request w
       "value":"***"  #optional
       }
 
-Get, Put/Update, Delete - https://enthusiastic-newt-bikini.cyclic.app/api/user_id make an API call to perform the listed operations depending on the request operation making the call
+Get, Put/Update, Delete - https://www.example.com/api/user_id make an API call to perform the listed operations depending on the request operation making the call
