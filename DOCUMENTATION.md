@@ -1,6 +1,7 @@
 CRUD APIs:
 
-Create - https://enthusiastic-newt-bikini.cyclic.app/api/  make an API request with the create operateion
+Create - https://enthusiastic-newt-bikini.cyclic.app/api/  make an API request with the create operation
+
       The reqired Object has two type string values with the name value requred and value as optional
       ie. { "name":"***", "value":"***" }
       The response returns a similar object plus the id which you`ll need to perform other operations
