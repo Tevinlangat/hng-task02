@@ -3,7 +3,8 @@ const { Schema } = mongoose;
 
 const personSchema = new Schema({
     
-    name: { type: String, required: true }
+    name: { type: String, required: true },
+    value: String
   
 });
 
