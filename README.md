@@ -1,6 +1,6 @@
 # hng-task02
 Here is a simple server which performs all the CRUD operations
-   Create -  https://enthusiastic-newt-bikini.cyclic.app/api/ using the create method you can create a person object
+   Create -  https://www.exmple.com/api/ using the create method you can create a person object
 
        This is the simple json body required
           {
@@ -15,7 +15,7 @@ Here is a simple server which performs all the CRUD operations
             "value":"**"  # This is an optional value
           }
     
-   Get,Put/Update & Delete - https://enthusiastic-newt-bikini.cyclic.app/api/[user_id]
+   Get,Put/Update & Delete - https://www.example.com/api/[user_id]
    
           To perform this actions pass in your _id
 
